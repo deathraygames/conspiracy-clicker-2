@@ -1,0 +1,25 @@
+{
+  "name": "conspiracy-clicker-2",
+  "version": "2.0.0-alpha.1",
+  "description": "conspiracy clicker idle game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deathraygames/conspiracy-clicker-2"
+  },
+  "keywords": [
+    "game",
+    "idle",
+    "clicker",
+    "incremental"
+  ],
+  "author": "Luke Nickerson",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
